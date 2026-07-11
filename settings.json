@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "dongbear.aternos.me",
+    "port": 36045,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Bear nè ",
+        "Tôi bị gay và tôi yêu Hùng",
       ]
     },
     "chat-log": true,
